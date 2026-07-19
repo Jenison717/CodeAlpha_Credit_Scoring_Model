@@ -1,0 +1,6 @@
+{
+  "name": "Credit Scoring Model Playground",
+  "description": "An interactive machine learning educational playground and Python code generator to compare Logistic Regression, Decision Tree, and Random Forest classification models for credit risk scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
